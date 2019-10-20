@@ -1,0 +1,8 @@
+data=[
+{latitude: 42.360001, longitude: -71.089996, info: 'Speed = 21'},
+{latitude: 42.369999, longitude: -71.089996, info: 'Speed = 22'},
+{latitude: 42.380001, longitude: -71.080002, info: 'Speed = 22'},
+{latitude: 42.380001, longitude: -71.080002, info: 'Speed = 21'},
+{latitude: 42.389999, longitude: -71.070000, info: 'Speed = 23'},
+{latitude: 42.389999, longitude: -71.070000, info: 'Speed = 21'},
+{latitude: 42.400002, longitude: -71.070000, info: 'Speed = 22'},
