@@ -2,7 +2,6 @@
 
 // note that if we add an extra value here later on
 // we shouldn't need to change functions/parameters
-// I'm on page 267
 struct fish { 
     const char *name;
     const char *species;
