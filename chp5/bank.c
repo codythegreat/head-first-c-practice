@@ -13,5 +13,8 @@ typedef struct {
 typedef struct {
     Combination numbers;
     const char *make;
-} safe;
+} Safe;
 
+Swag gold = {"Gold", 1000000};
+Combination numbers = {&gold, "1234"};
+Safe s = {numbers, "passphrase"};
